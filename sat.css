@@ -1,0 +1,12 @@
+.logo{
+    width: 205px;
+    height: 80px;
+}
+.langiage{
+    border: none;
+    background-color: white;
+    color: #f05f40;
+}
+.main{
+    display: flex;
+}
